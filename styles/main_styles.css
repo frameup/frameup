@@ -655,7 +655,8 @@ section
 
 .home
 {
-	height: 830px;
+	/*height: 830px;*/
+	height: 100vh;
 }
 .home_container
 {
